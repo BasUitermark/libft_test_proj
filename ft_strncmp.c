@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_strncmp.c                                       :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: buiterma <buiterma@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2022/05/31 16:43:37 by buiterma      #+#    #+#                 */
+/*   Updated: 2022/05/31 16:43:38 by buiterma      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
 int	ft_strncmp(const char *str1, const char *str2, size_t n)

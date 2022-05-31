@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        ::::::::            */
+/*   ft_strnstr.c                                       :+:    :+:            */
+/*                                                     +:+                    */
+/*   By: buiterma <buiterma@student.codam.nl>         +#+                     */
+/*                                                   +#+                      */
+/*   Created: 2022/05/31 16:43:39 by buiterma      #+#    #+#                 */
+/*   Updated: 2022/05/31 16:43:40 by buiterma      ########   odam.nl         */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "libft.h"
 
 char	*ft_strnstr(const char	*big, const char *little, size_t n)
